@@ -6,3 +6,5 @@ console.log("a3")
 //自己添加修改后，git add *,git commit -m "提示"
 //先git pull 获取最新数据，再git push 上传更新的数据
 console.log("张三1")
+
+console.log("i am zhangsan")
